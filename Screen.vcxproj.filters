@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Screen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenuScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Screen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenuScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SettingScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="shader.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="shader.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="E:\Universitas Brawijaya\Semester 6\Pemrograman Game\Pemrograman_Game Code\vs\Lesson04\spriteAnim.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="E:\Universitas Brawijaya\Semester 6\Pemrograman Game\Pemrograman_Game Code\vs\Lesson04\spriteAnim.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="E:\Universitas Brawijaya\Semester 6\Pemrograman Game\Pemrograman_Game Code\vs\Lesson06\playerSprite.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="E:\Universitas Brawijaya\Semester 6\Pemrograman Game\Pemrograman_Game Code\vs\Lesson06\playerSprite.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="E:\Universitas Brawijaya\Semester 6\Pemrograman Game\Pemrograman_Game Code\vs\Lesson06\crateSprite.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="E:\Universitas Brawijaya\Semester 6\Pemrograman Game\Pemrograman_Game Code\vs\Lesson06\crateSprite.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\..\..\Desktop\UI-RunBarnV1.0-Projek-Pemgame-master\sprite.vert">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\..\..\Desktop\UI-RunBarnV1.0-Projek-Pemgame-master\sprite.frag">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="credit.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="credit_hover.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="exit.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="exit_hover.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="highscore.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="highscore_hover.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="leaderboard.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="leaderboard_hover.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="quit.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="quit_hover.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resume.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="resume_hover.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="run.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="run_hover.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="setting.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="setting_hover.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SFX_CHOOSEN.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SFX_HOVER.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="BGM.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="BGM_CHOOSEN.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="BGM_HOVER.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="SFX.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="homeranim.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="vacuum.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="background2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\Desktop\hori.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

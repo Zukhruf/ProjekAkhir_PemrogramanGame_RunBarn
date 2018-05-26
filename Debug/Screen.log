@@ -1,0 +1,8 @@
+﻿  MainMenuScreen.cpp
+c:\users\giovanka bisano\downloads\compressed\ui-runbarnv1.0-projek-pemgame-master\mainmenuscreen.cpp(257): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\giovanka bisano\downloads\compressed\ui-runbarnv1.0-projek-pemgame-master\mainmenuscreen.cpp(258): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\giovanka bisano\downloads\compressed\ui-runbarnv1.0-projek-pemgame-master\mainmenuscreen.cpp(419): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\giovanka bisano\downloads\compressed\ui-runbarnv1.0-projek-pemgame-master\mainmenuscreen.cpp(420): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\giovanka bisano\downloads\compressed\ui-runbarnv1.0-projek-pemgame-master\mainmenuscreen.cpp(422): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\giovanka bisano\downloads\compressed\ui-runbarnv1.0-projek-pemgame-master\mainmenuscreen.cpp(473): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+  Screen.vcxproj -> C:\Users\Giovanka Bisano\Downloads\Compressed\UI-RunBarnV1.0-Projek-Pemgame-master\Debug\Screen.exe
